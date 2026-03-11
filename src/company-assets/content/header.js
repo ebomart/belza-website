@@ -1,6 +1,6 @@
 import ervoLogo from "../assets/main-logo.png";
 const headerContent = {
-  brandName: "ERVO",
+  brandName: "BELZA",
   brandLogo: ervoLogo,
   navigations: {
     prefixNavigations: [

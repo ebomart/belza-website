@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="border-border-primary m-auto mt-10 w-full max-w-[90%] border-t p-4 md:p-6">
       <div className="flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
         <div className="text-text-primary flex flex-col items-start gap-2 text-xs md:text-sm">
-          <div>© 2025 ERVO,&nbsp;All Rights Reserved.</div>
+          <div>© 2025 BELZA,&nbsp;All Rights Reserved.</div>
           <div className="max-w-xs md:max-w-none">
             Terms & Conditions | Privacy Policy | Rewards Policy | Promotions |
             Terms & Conditions
